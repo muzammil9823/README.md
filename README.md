@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php, laravel,**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIND, REACTJS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIND**
 
 - 📫 How to reach me **muzammilriaz14@gmail.com**
 
