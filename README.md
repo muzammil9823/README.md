@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ticket Receipt Form**
 
-- 🌱 I’m currently learning **php, laravel,**
+- 🌱 I’m currently learning **php, laravel, Mysql**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIND**
 
